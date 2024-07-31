@@ -18,6 +18,8 @@ public class Basket {
 
         print("Cодержимое карзины ");
         System.out.println("Общая стоимость товаров: " + totalPrice);
+
+        System.out.println(" Изменения для Гит ");
     }
 
     public static void add(String name, int price) {
